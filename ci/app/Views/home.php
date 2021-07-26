@@ -59,7 +59,7 @@
                         <p>We believe that a strong partnership between the school, parents, and the community is essential to the success of our students. We encourage you to explore our website and learn more about what Pride of Faith Academy has to offer.</p>
                         <p>Thank you for considering Pride of Faith Academy as a potential educational home for your child. We look forward to welcoming you into our school community.</p>
                         <p>Sincerely, <br>
-                            Oduntan M.O <br>
+                            Oduntan L.A <br>
                         Principal, Pride of Faith Academy</p>
                         <div class="mt-4 pt-2">
                             <a href="<?=base_url('admission')?>" class="btn btn-primary">Secure your place at our school! <i class="uil uil-arrow-right"></i></a>

@@ -4,23 +4,63 @@ namespace App\Controllers;
 
 class Home extends BaseController
 {
+
     public function index()
     {
-        $BLOGID = '7929797291362040934';
+        echo view('header');
+        echo view('home');
+        echo view('footer');
+    }
 
-        $options = [
-                // 'baseURI' => 'http://example.com/api/v1/',
-                'timeout'  => 3
-        ];
-        $client = \Config\Services::curlrequest($options);
+     public function about()
+    {
+        echo view('header');
+        echo view('about');
+        echo view('footer');
+    }
+
+     public function admission()
+    {
+        echo view('header');
+        echo view('admission');
+        echo view('footer');
+    }
+
+     public function contact()
+    {
+        echo view('header');
+        echo view('contact');
+        echo view('footer');
+    }
+
+    public function blog()
+    {
+        $BLOGID = $_ENV['BLOGGER_ID'];
+        $client = \Config\Services::curlrequest();
 
         $response = $client->request('GET', 'https://www.googleapis.com/blogger/v3/blogs/'.$BLOGID.'/posts?key='.$_ENV['BLOGGER']);
 
-        // echo $response->getStatusCode();
-        dd($response->getBody());
-        // echo $response->getHeader('Content-Type');
-        // return view('welcome_message');
-        // echo 123;
-        // https://www.googleapis.com/blogger/v3/blogs/2399953?key=YOUR-API-KEY
+        $data = [ 'blogs' => json_decode($response->getBody())->items
+        ];
+
+        echo view('header');
+        echo view('blog', $data);
+        echo view('footer');
+    }
+
+
+    public function blogD($id)
+    {
+        $BLOGID = $_ENV['BLOGGER_ID'];
+        $client = \Config\Services::curlrequest();
+
+        $response = $client->request('GET', 'https://www.googleapis.com/blogger/v3/blogs/'.$BLOGID.'/posts/'.$id.'?key='.$_ENV['BLOGGER']);
+
+        $data = [ 'blog' => json_decode($response->getBody())
+        ];
+
+        echo view('header');
+        echo view('blogSingle', $data);
+        echo view('footer');
     }
 }

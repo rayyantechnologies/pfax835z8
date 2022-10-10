@@ -4,11 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Pride of Faith Academy, Sagamu</title>
-    <meta name="description" content="">
+    <title>Pride of Faith Academy, Sagamu || Welcome</title>
+    <meta name="description" content="Pride of faith Academy is a secondary school established in Sagamu ...">
     <meta name="keywords" content="">
     <!-- favicon -->
-    <link href="<?=base_url('images/favicon.ico')?>" rel="shortcut icon">
+    <link href="<?=base_url('img/favicon.png')?>" rel="shortcut icon">
     <!-- Bootstrap core CSS -->
     <link href="<?=base_url('css/bootstrap.min.css')?>" type="text/css" rel="stylesheet">
     <!-- Slider -->
@@ -36,12 +36,12 @@
     <header id="topnav" class="defaultscroll sticky nav-sticky">
         <div class="container">
             <!-- Logo container-->
-            <a class="logo" href="index.html">
+            <a class="logo" href="<?=base_url('/')?>">
                 <span class="logo-light-mode">
                     <!-- <img src="img/logo.png" width="45px" class="l-dark" alt="">&nbsp; -->
                     <!-- <img src="img/logo.png"  width="45px" class="l-light" alt=""> -->
                 </span>
-                <img src="<?=base_url('img/logo.png')?>" class="logo-light-mode" width="45px" alt="">
+                <img src="<?=base_url('img/logo.png')?>" class="logo-light-mode" width="45px" alt="PFA logo">
                 <small class="text-dark">PFA</small>
             </a>
             <!-- Logo End -->

@@ -7,7 +7,7 @@
                     <div class="footer-py-60 footer-border">
                         <div class="row">
                             <div class="col-lg-4 col-md-6 col-6 mb-0 mb-md-4 pb-0 pb-md-2">
-                                <a href="#" class="logo-footer">
+                                <a href="<?=base_url('/')?>" class="logo-footer">
                                     <img src="<?=base_url('img/logo.png')?>" class="img-fluid" alt="" width="45px">
                                 </a>
                                 <p class="mt-4 text-light">Join us at PFA to walk tall</p>
@@ -75,7 +75,7 @@
     <!-- Parallax -->
     <!-- <script src="<?=base_url('js/parallax.js')?>"></script> -->
     <!-- Icons -->
-    <script src="<?=base_url('js/feather.min.js')?>"></script>
+    <!-- <script src="<?=base_url('js/feather.min.js')?>"></script> -->
     <!-- Custom -->
     <script src="<?=base_url('js/plugins.init.js')?>"></script>
     <style type="text/css">

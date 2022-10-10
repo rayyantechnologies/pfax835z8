@@ -7,7 +7,7 @@
                 <div class="col-12">
                     <div class="title-heading text-center">
                         <h4 class="display-5 text-white title-dark mb-4">Join the GIANTS</h4>
-                        <p class="para-desc text-white-50 mb-0 mx-auto">lots of content can fit in here such as Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate ab aut natus, dolorum hic accusamus illum minima tenetur error quae, labore rem doloribus doloremque adipisci optio fugiat nemo animi, dolorem. but I added <br> At PFA, we are walking tall...</p>
+                        <p class="para-desc text-white mb-0 mx-auto">lots of content can fit in here such as Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate ab aut natus, dolorum hic accusamus illum minima tenetur error quae, labore rem doloribus doloremque adipisci optio fugiat nemo animi, dolorem. but I added <br> At PFA, we are walking tall...</p>
                         <div class="mt-4 pt-2">
                             <a href="admission.html" class="btn btn-primary">Join Us</a>
                         </div>

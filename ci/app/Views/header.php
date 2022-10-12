@@ -128,7 +128,7 @@
                         </ul>
                     </li> -->
                     <li><a href="<?=base_url('blog')?>" class="sub-menu-item">News & Events</a></li>
-                    <li><a href="https://alumni.sgm.ng" class="sub-menu-item">Alumni</a></li>
+                    <li><a href="<?=$_ENV['alumniPage']?>" class="sub-menu-item">Alumni</a></li>
                     <li><a href="#contact" class="sub-menu-item">Contact</a></li>
                 </ul>
                 <!--end navigation menu-->

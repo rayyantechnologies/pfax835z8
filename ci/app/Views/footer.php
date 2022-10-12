@@ -14,7 +14,7 @@
                                 <p class="mt-1 text-light"> <a href="tel:+2347040960516" class="text-light">0704 096 0516</a>  <br> <a href="tel:+2349154629290" class="text-light">0915 462 9290</a> <br></p>
                                 <ul class="list-unstyled social-icon foot-social-icon mb-0 mt-1">
 
-                                    <li class="list-inline-item"><a href="https://www.facebook.com/shreethemes" target="_blank" class="rounded text-light"><i class="uil uil-facebook-f align-middle" title="facebook"></i></a></li>
+                                    <li class="list-inline-item"><a href="https://www.facebook.com/prideoffaith" target="_blank" class="rounded text-light"><i class="uil uil-facebook-f align-middle" title="facebook"></i></a></li>
                                     <li class="list-inline-item"><a href="https://www.instagram.com/_prideoffaith_/" target="_blank" class="rounded text-light"><i class="uil uil-instagram align-middle" title="instagram"></i></a></li>
                                     <li class="list-inline-item"><a href="https://twitter.com/prideoffaith" target="_blank" class="rounded text-light"><i class="uil uil-twitter align-middle" title="twitter"></i></a></li>
                                     <li class="list-inline-item"><a href="mailto:prideoffaithacademy@gmail.com" class="rounded text-light"><i class="uil uil-envelope align-middle" title="email"></i></a></li>

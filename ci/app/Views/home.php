@@ -7,9 +7,9 @@
                 <div class="col-12">
                     <div class="title-heading text-center">
                         <h4 class="display-5 text-white title-dark mb-4">Join the GIANTS</h4>
-                        <p class="para-desc text-white mb-0 mx-auto">lots of content can fit in here such as Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate ab aut natus, dolorum hic accusamus illum minima tenetur error quae, labore rem doloribus doloremque adipisci optio fugiat nemo animi, dolorem. but I added <br> At PFA, we are walking tall...</p>
+                        <p class="para-desc text-white mb-0 mx-auto" style="font-size:26px;">Welcome to Pride of Faith Academy, where excellence meets character. <br> At PFA, we are walking tall...</p>
                         <div class="mt-4 pt-2">
-                            <a href="admission.html" class="btn btn-primary">Join Us</a>
+                            <a href="<?=base_url('admission')?>" class="btn btn-primary">Enroll now for a brighter future!</a>
                         </div>
                     </div>
                 </div>
@@ -46,15 +46,23 @@
                     <div class="section-title ms-lg-5">
                         <h6 class="text-primary fw-normal">You are welcome</h6>
                         <h4 class="title mb-4">Principal's Message</h4>
-                        <h6 class="lead">Dear Members of the Pride of Faith Academy family, Well Wishers and Visitors!</h6>
+                        <h6 class="lead">Dear Esteemed Parents, Prospective Students, and Visitors,</h6>
                         <p>Assalamu Alaikum Warahmatullahi Wa Barakatuh.</p>
-                        <p>Pride of Faith Academy is a private full-time secondary school. The school has a multi-purpose hall, playground facility and operational library.</p>
-                        <p>At PFA all aspects of our educational processes are carefully designed to cultivate and stimulate the intellectual, social, and personal development of the most important stakeholders at this institution, the students.</p>
-                        <h3 class="title text-center">OR</h3>
-                        <h4 class="title mb-4">Student Life</h4>
-                        <p class="text-muted mb-0">At the Pride of Faith Academy, we believe in giving our students a voice and instilling in them a passion to be involved with their school community. It is evident that students are at the forefront of understanding the needs of making their school into an environment that promotes a safe and healthy learning environment.</p>
+                        <p>It is with great pleasure that I extend a warm welcome to all of you to Pride of Faith Academy. As the Principal of this esteemed institution, I am honored to have the opportunity to introduce you to our school and our newly designed website.</p>
+                        <p>At Pride of Faith Academy, we strive to provide a nurturing environment where students can grow academically, socially, and emotionally. Our dedicated faculty and staff work tirelessly to ensure that each student receives a high-quality education and is prepared for success in their future endeavors.</p>
+                        <p>Our website is designed to provide you with a comprehensive overview of our school, including information about our academic programs, admission process, and extracurricular activities. Please take some time to explore the various sections of our website:</p>
+                        <ul>
+                            <li>The <a href="">About section</a> provides an overview of our school, including our mission, vision, and values.</li>
+                            <li>The <a href="">Admission section</a> provides information about our admission process, including eligibility requirements, application deadlines, and tuition fees.</li>
+                            <li>The <a href="">News and Events</a> section provides updates on school news, events, and activities, including information about upcoming events and extracurricular activities.</li>
+                        </ul>
+                        <p>We believe that a strong partnership between the school, parents, and the community is essential to the success of our students. We encourage you to explore our website and learn more about what Pride of Faith Academy has to offer.</p>
+                        <p>Thank you for considering Pride of Faith Academy as a potential educational home for your child. We look forward to welcoming you into our school community.</p>
+                        <p>Sincerely, <br>
+                            Oduntan M.O <br>
+                        Principal, Pride of Faith Academy</p>
                         <div class="mt-4 pt-2">
-                            <a href="javascript:void(0)" class="btn btn-primary">Read More <i class="uil uil-arrow-right"></i></a>
+                            <a href="<?=base_url('admission')?>" class="btn btn-primary">Secure your place at our school! <i class="uil uil-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -67,7 +75,7 @@
             <div class="row">
                 <div class="col-md-4 col-6">
                     <div class="counter-box position-relative text-center">
-                        <h2 class="mb-0 display-2 fw-bold title-dark mt-2 opacity-1"><span class="counter-value" data-target="5458">182</span></h2>
+                        <h2 class="mb-0 display-2 fw-bold title-dark mt-2 opacity-1"><span class="counter-value" data-target="182">182</span></h2>
                         <span class="counter-head fw-normal title-dark position-absolute top-50 start-0 end-0">Students</span>
                     </div>
                     <!--end counter box-->
@@ -75,7 +83,7 @@
                 <!--end col-->
                 <div class="col-md-4 col-6">
                     <div class="counter-box position-relative text-center">
-                        <h2 class="mb-0 display-2 fw-bold title-dark mt-2 opacity-1"><span class="counter-value" data-target="15">25</span></h2>
+                        <h2 class="mb-0 display-2 fw-bold title-dark mt-2 opacity-1"><span class="counter-value" data-target="8">8</span></h2>
                         <span class="counter-head fw-normal title-dark position-absolute top-50 start-0 end-0">Years of Experience</span>
                     </div>
                     <!--end counter box-->
@@ -83,8 +91,8 @@
                 <!--end col-->
                 <div class="col-md-4 col-12 text-center">
                     <div class="counter-box position-relative text-center">
-                        <h2 class="mb-0 display-2 fw-bold title-dark mt-2 opacity-1"><span class="counter-value" data-target="54">54</span></h2>
-                        <span class="counter-head fw-normal title-dark position-absolute top-50 start-0 end-0">Teachers</span>
+                        <h2 class="mb-0 display-2 fw-bold title-dark mt-2 opacity-1"><span class="counter-value" data-target="20">20</span></h2>
+                        <span class="counter-head fw-normal title-dark position-absolute top-50 start-0 end-0">Staff</span>
                     </div>
                     <!--end counter box-->
                 </div>

@@ -10,7 +10,7 @@
                         <!-- <p class="text-white-50 para-desc mx-auto mb-0">What we offer?</p> -->
                         <h5 class="heading fw-semibold mb-0 sub-heading text-white title-dark">About PFA</h5>
                     </div>
-                </div><!--end col-->
+                </div>
             </div><!--end row-->
         </div><!--end container-->
     </section><!--end section-->
@@ -136,16 +136,15 @@
     </section>
     <!--end section-->
     <section class="section">
-
+<!-- 
         <div class="container pt-0">
             <div class="row justify-content-center py-0 my-0">
                 <div class="col-12">
                     <div class="section-title text-center mb-4 pb-2">
-                        <!-- <h6 class="text-primary fw-normal">Who we are?</h6> -->
                         <h4 class="title mb-4">Our Departments</h4>
                     </div>
-                </div><!--end col-->
-            </div><!--end row-->
+                </div>
+            </div>
 
             <div class="row">
                 <div class="col-lg-4 col-sm-6 mt-4 pt-2">
@@ -164,7 +163,7 @@
                         <div class="feature-ovelay-two"></div>
                         <div class="feature-ovelay-three"></div>
                     </div>
-                </div><!--end col-->
+                </div>
 
                 <div class="col-lg-4 col-sm-6 mt-4 pt-2">
                     <div class="card features feature-primary feature-clean feature-transition p-4 border-0 shadow rounded overflow-hidden">
@@ -182,7 +181,7 @@
                         <div class="feature-ovelay-two"></div>
                         <div class="feature-ovelay-three"></div>
                     </div>
-                </div><!--end col-->
+                </div>
 
                 <div class="col-lg-4 col-sm-6 mt-4 pt-2">
                     <div class="card features feature-primary feature-clean feature-transition p-4 border-0 shadow rounded overflow-hidden">
@@ -200,7 +199,7 @@
                         <div class="feature-ovelay-two"></div>
                         <div class="feature-ovelay-three"></div>
                     </div>
-                </div><!--end col-->
+                </div>
 
                 <div class="col-lg-4 col-sm-6 mt-4 pt-2">
                     <div class="card features feature-primary feature-clean feature-transition p-4 border-0 shadow rounded overflow-hidden">
@@ -218,7 +217,7 @@
                         <div class="feature-ovelay-two"></div>
                         <div class="feature-ovelay-three"></div>
                     </div>
-                </div><!--end col-->
+                </div>
 
                 <div class="col-lg-4 col-sm-6 mt-4 pt-2">
                     <div class="card features feature-primary feature-clean feature-transition p-4 border-0 shadow rounded overflow-hidden">
@@ -236,7 +235,7 @@
                         <div class="feature-ovelay-two"></div>
                         <div class="feature-ovelay-three"></div>
                     </div>
-                </div><!--end col-->
+                </div>
 
                 <div class="col-lg-4 col-sm-6 mt-4 pt-2">
                     <div class="card features feature-primary feature-clean feature-transition p-4 border-0 shadow rounded overflow-hidden">
@@ -254,9 +253,9 @@
                         <div class="feature-ovelay-two"></div>
                         <div class="feature-ovelay-three"></div>
                     </div>
-                </div><!--end col-->
-            </div><!--end row-->
-        </div><!--end container-->
+                </div>
+            </div>
+        </div>
 
         <div class="container mt-100 mt-60">
             <div class="row">
@@ -265,9 +264,9 @@
                         <h4 class="title mb-4">Latest Projects & Works</h4>
                         <p class="para-desc text-muted mb-0">Explore and learn more about everything from machine learning and global payments to  scaling your team.</p>
                     </div>
-                </div><!--end col-->
-            </div><!--end row-->
-        </div><!--end container-->
+                </div>
+            </div>
+        </div>
 
         <div class="container mt-100 mt-60">
             <div class="row justify-content-center">
@@ -277,8 +276,8 @@
                         <h4 class="title mb-4">What our customer <br> say about us</h4>
                         <p class="text-muted para-desc mb-0 mx-auto">Start working with Fronter that can provide everything you need to generate awareness, drive traffic, connect.</p>
                     </div>
-                </div><!--end col-->
-            </div><!--end row-->
+                </div>
+            </div>
 
             <div class="row">
                 <div class="col-12 mt-4">
@@ -388,9 +387,9 @@
                             </div>
                         </div>
                     </div>
-                </div><!--end col-->
-            </div><!--end row-->
-        </div><!--end container-->
+                </div>
+            </div>
+        </div> -->
     </section>
     <!--end section-->
     <!-- End -->

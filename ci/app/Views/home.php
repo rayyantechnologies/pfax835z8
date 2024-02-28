@@ -62,7 +62,7 @@
                             Oduntan L.A <br>
                         Principal, Pride of Faith Academy</p>
                         <div class="mt-4 pt-2">
-                            <a href="<?=base_url('admission')?>" class="btn btn-primary">Secure your place at our school! <i class="uil uil-arrow-right"></i></a>
+                            <a href="<?=base_url('admission')?>" class="btn btn-primary">Secure your place at our school <i class="uil uil-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
